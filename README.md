@@ -1,4 +1,5 @@
 # 제 2회 체육종합 빅데이터 활용 경진대회 [아이디어부문] 
+# 대상 수상
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdokdin%2FTEAM02%2F&count_bg=%23B8C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
